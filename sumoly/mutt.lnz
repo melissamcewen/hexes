@@ -971,11 +971,11 @@ mtpup.lnz
 \art\textures\plush.bmp  1
 \art\textures\hair10.bmp  1
 \art\textures\jowl2.bmp  1
-\resource\dogz\c_colormix_soft212-180.bmp    0
-\resource\dogz\c_colormix_soft180-206.bmp    0
-\resource\dogz\c_colormix_soft213-223.bmp    0
-\resource\dogz\c_colormix_soft213-70.bmp    0
-\resource\dogz\c_colormix_soft213-223.bmp    0
+\resource\dogz\sumolytex\c_colormix_soft212-180.bmp    0
+\resource\dogz\sumolytex\c_colormix_soft180-206.bmp    0
+\art\textures\plush.bmp  1      ;5 cloud band not sure about this one feel free to change
+\resource\dogz\sumolytex\c_colormix_soft180-70.bmp    0      ;6 clouds
+\resource\dogz\sumolytex\c_colormix_soft225-181b.bmp    0     ;7 cloud shading
 
 ;-1 = no outline, 0 = half outline, > 0 = outline thickness
 ;Color,outline color,speckle color,fuzz,outline type,size difference,group,texture,ball number
